@@ -11,24 +11,34 @@
 ---
 
 ## 🌟 Skills
-- Python, Git, GitHub
-![HTML](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
-| Tech       | URL                           |
-| ---------- | ----------------------------- |
-| HTML       | `.../html5-original.svg`      |
-| CSS        | `.../css3-original.svg`       |
-| JavaScript | `.../javascript-original.svg` |
-| React      | `.../react-original.svg`      |
-| Tailwind   | `.../tailwindcss-plain.svg`   |
-| Node.js    | `.../nodejs-original.svg`     |
-| MongoDB    | `.../mongodb-original.svg`    |
-| Java       | `.../java-original.svg`       |
-| Python     | `.../python-original.svg`     |
-| Git        | `.../git-original.svg`        |
-| VS Code    | `.../vscode-original.svg`     |
-| Linux      | `.../linux-original.svg`      |
+
+<p align="center">
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/>
+</a>
+
+<a href="https://git-scm.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/>
+</a>
+
+<a href="https://github.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/>
+</a>
+
+<a href="https://code.visualstudio.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48"/>
+</a>
+
+</p>
 
 
 
