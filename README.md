@@ -26,6 +26,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/>
 </a>
 
+<a href="https://www.python.org" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/>
+</a>
+
 <a href="https://git-scm.com" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/>
 </a>
@@ -39,9 +43,7 @@
 </a>
 
 </p>
-<a href="https://www.python.org" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/>
-</a>
+
 
 
 ---
